@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fe83dc0b-1c14-4d65-95a3-5803c12ddb4d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 205.74 31.75)
+		(size 57.15 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "655482f1-e250-46ca-9eda-d9b0521452dc")
+		(property "Sheetname" "RS485"
+			(at 205.74 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RS485.kicad_sch"
+			(at 205.74 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ex1"
+				(path "/fe83dc0b-1c14-4d65-95a3-5803c12ddb4d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 113.03)
+		(size 63.5 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76df7cc5-b6bb-4b28-93ae-1affd867481f")
+		(property "Sheetname" "MOSFET"
+			(at 36.83 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MOSFET.kicad_sch"
+			(at 36.83 175.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ex1"
+				(path "/fe83dc0b-1c14-4d65-95a3-5803c12ddb4d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 26.67)
+		(size 62.23 83.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9a502a19-8817-48fd-8113-ae32f9d02387")
+		(property "Sheetname" "MPU"
+			(at 128.27 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MPU_sch.kicad_sch"
+			(at 128.27 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ex1"
+				(path "/fe83dc0b-1c14-4d65-95a3-5803c12ddb4d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 31.75)
+		(size 58.42 62.23)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb77d27c-e4a9-4a8e-b7ad-59f80879f769")
+		(property "Sheetname" "PS"
+			(at 34.29 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 34.29 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Ex1"
+				(path "/fe83dc0b-1c14-4d65-95a3-5803c12ddb4d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
